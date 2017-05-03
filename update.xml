@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<UpdateInfo genDate="170501" genTime="21:21:00" id="" version="10">
-<file ver="10" size="0" name="v242" type="apk" des="/sdcard/sscam/v242.apk"/> 
+<UpdateInfo genDate="170501" genTime="21:21:00" id="" ver="10">
+<file ver="10" size="0" src="https://github.com/caosam/simon/edit/master/v242.zpk" version="242" name="v242" type="apk" des="/sdcard/sscam/v242.apk"/> 
 </UpdateInfo>
